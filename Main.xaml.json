@@ -1,0 +1,45 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_strSubject",
+      "DisplayName": "in_strSubject",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Test Subject",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_strMailTo",
+      "DisplayName": "in_strMailTo",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "uipathpocdemo@gmail.com",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_strBody",
+      "DisplayName": "in_strBody",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Cuerpo del correo electronico por defecto",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
